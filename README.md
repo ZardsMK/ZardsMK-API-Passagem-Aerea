@@ -28,7 +28,7 @@ npm install
 
 ## Crie o arquivo .env na pasta backend:
 
-DB_HOST=localhost
+DB_HOST=localhost \n
 DB_USER=seu_usuario
 DB_PASSWORD=sua_senha
 DB_NAME=nome_do_banco
